@@ -1,0 +1,1285 @@
+<thead>
+<tr class="row-1 odd">
+<th class="column-1">R</th>
+<th class="column-2">Question (3 Answer Questions ONLY)</th>
+<th class="column-3">Answer</th>
+<th class="column-4"></th>
+<th class="column-5">Answer</th>
+<th class="column-6"></th>
+<th class="column-7">Answer</th>
+<th class="column-8"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-2 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Number That&#8217;s Associated With Being Lucky Or Unlucky</td>
+<td class="column-3">7</td>
+<td class="column-4">68</td>
+<td class="column-5">13</td>
+<td class="column-6">26</td>
+<td class="column-7">3</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-3 odd">
+<td class="column-1">4</td>
+<td class="column-2">Something You Use To Shave That Can Be Replaced At A Drug Store.</td>
+<td class="column-3">Razor</td>
+<td class="column-4"></td>
+<td class="column-5">Shaving Cream</td>
+<td class="column-6"></td>
+<td class="column-7">Aftershave</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-4 even">
+<td class="column-1">4</td>
+<td class="column-2">Time When You Exchange Gifts</td>
+<td class="column-3">Christmas</td>
+<td class="column-4"></td>
+<td class="column-5">Birthday</td>
+<td class="column-6"></td>
+<td class="column-7">Anniversary</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-5 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name The Most Used Piece Of Furniture In A House.</td>
+<td class="column-3">Couch</td>
+<td class="column-4">55</td>
+<td class="column-5">Bed</td>
+<td class="column-6">23</td>
+<td class="column-7">Arm Chair</td>
+<td class="column-8">15</td>
+</tr>
+<tr class="row-6 even">
+<td class="column-1">4</td>
+<td class="column-2">Something You Wish Couples Wouldn&#8217;t Do In Public</td>
+<td class="column-3">Fight</td>
+<td class="column-4"></td>
+<td class="column-5">Feed Each Other</td>
+<td class="column-6"></td>
+<td class="column-7">Baby Talk</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-7 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Job In Which An Attractive Person Probably Makes Better Tips.</td>
+<td class="column-3">Server</td>
+<td class="column-4">65</td>
+<td class="column-5">Exotic Dancer</td>
+<td class="column-6">19</td>
+<td class="column-7">Bartender</td>
+<td class="column-8">13</td>
+</tr>
+<tr class="row-8 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Prop used By Tap Dancers</td>
+<td class="column-3">Cane</td>
+<td class="column-4">65</td>
+<td class="column-5">Top Hat</td>
+<td class="column-6">28</td>
+<td class="column-7">Baton</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-9 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Place That While On Vacation Might Be Difficult To Find A Bathroom</td>
+<td class="column-3">Car</td>
+<td class="column-4"></td>
+<td class="column-5">Camping</td>
+<td class="column-6"></td>
+<td class="column-7">Boating</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-10 even">
+<td class="column-1">4</td>
+<td class="column-2">If You Drew Homer Simpson&#8217;s Name In A Secret Santa Exchange, What Would You Buy Him?</td>
+<td class="column-3">Beer</td>
+<td class="column-4">67</td>
+<td class="column-5">Donuts</td>
+<td class="column-6">24</td>
+<td class="column-7">Bowling Ball</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-11 odd">
+<td class="column-1">4</td>
+<td class="column-2">Structure Named For Dead People</td>
+<td class="column-3">Monument</td>
+<td class="column-4"></td>
+<td class="column-5">Library</td>
+<td class="column-6"></td>
+<td class="column-7">Bridge</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-12 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something You Do To An Item Before Giving It As A Gift</td>
+<td class="column-3">Wrap It</td>
+<td class="column-4">61</td>
+<td class="column-5">Remove Price Tag</td>
+<td class="column-6">27</td>
+<td class="column-7">Buy It</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-13 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Place Where It Might Be Romantic To Get Stranded With Your Partner</td>
+<td class="column-3">Island/Beach</td>
+<td class="column-4">61</td>
+<td class="column-5">Park</td>
+<td class="column-6">28</td>
+<td class="column-7">Cabin/Lodge</td>
+<td class="column-8">6</td>
+</tr>
+<tr class="row-14 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Good Gift For Someone Who Is Always Late.</td>
+<td class="column-3">Watch</td>
+<td class="column-4">58</td>
+<td class="column-5">Alarm Clock</td>
+<td class="column-6">34</td>
+<td class="column-7">Calendar</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-15 odd">
+<td class="column-1">4</td>
+<td class="column-2">Why Might A Family Move Into A Bigger House?</td>
+<td class="column-3">Family Has Grown</td>
+<td class="column-4">61</td>
+<td class="column-5">Want More Space</td>
+<td class="column-6">33</td>
+<td class="column-7">Can Afford More</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-16 even">
+<td class="column-1">4</td>
+<td class="column-2">Other Than Movie Tickets, Name Something A Crowded Movie Theatre Might Run Out Of.</td>
+<td class="column-3">Popcorn</td>
+<td class="column-4">51</td>
+<td class="column-5">Space</td>
+<td class="column-6">30</td>
+<td class="column-7">Candy</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-17 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something You Should Probably Book Ahead Of Time If You&#8217;re Going On Vacation.</td>
+<td class="column-3">Hotel</td>
+<td class="column-4">73</td>
+<td class="column-5">Flight</td>
+<td class="column-6">23</td>
+<td class="column-7">Car</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-18 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something People Bet On</td>
+<td class="column-3">Horses Races</td>
+<td class="column-4">68</td>
+<td class="column-5">Sports</td>
+<td class="column-6">20</td>
+<td class="column-7">Card Games</td>
+<td class="column-8">10</td>
+</tr>
+<tr class="row-19 odd">
+<td class="column-1">4</td>
+<td class="column-2">What In Your House Would You Most Be Upset To Find Out Your Dog Chewed Up</td>
+<td class="column-3">Shoes</td>
+<td class="column-4"></td>
+<td class="column-5">Furniture</td>
+<td class="column-6"></td>
+<td class="column-7">Carpet</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-20 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Character Who&#8217;s Known For Almost Ruining Christmas.</td>
+<td class="column-3">Grinch</td>
+<td class="column-4">67</td>
+<td class="column-5">Ebenezer Scrooge</td>
+<td class="column-6">28</td>
+<td class="column-7">Charlie Brown</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-21 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A City Where You&#8217;d Hate The Long Commute To Work.</td>
+<td class="column-3">New York City</td>
+<td class="column-4">53</td>
+<td class="column-5">Los Angeles</td>
+<td class="column-6">21</td>
+<td class="column-7">Chicago</td>
+<td class="column-8">18</td>
+</tr>
+<tr class="row-22 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something That&#8217;s Not Allowed In Some Hotels.</td>
+<td class="column-3">Pets</td>
+<td class="column-4">61</td>
+<td class="column-5">Smoking</td>
+<td class="column-6">29</td>
+<td class="column-7">Children</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-23 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something That Might Happen If You Eat While Driving.</td>
+<td class="column-3">Crash</td>
+<td class="column-4">71</td>
+<td class="column-5">Spill</td>
+<td class="column-6">17</td>
+<td class="column-7">Choke</td>
+<td class="column-8">11</td>
+</tr>
+<tr class="row-24 even">
+<td class="column-1">4</td>
+<td class="column-2">If Adults Trick Or Treated, What Might They Request Instead Of Candy?</td>
+<td class="column-3">Money</td>
+<td class="column-4">74</td>
+<td class="column-5">Alcohol</td>
+<td class="column-6">17</td>
+<td class="column-7">Cigarettes</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-25 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Word Or Phrase Used For Cooking On The Grill</td>
+<td class="column-3">Barbecue</td>
+<td class="column-4">64</td>
+<td class="column-5">Grilling</td>
+<td class="column-6">30</td>
+<td class="column-7">Cookout</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-26 even">
+<td class="column-1">4</td>
+<td class="column-2">Which TV Characters Might You Also See Disneyland</td>
+<td class="column-3">Mickey Mouse</td>
+<td class="column-4"></td>
+<td class="column-5">Goofy</td>
+<td class="column-6"></td>
+<td class="column-7">Donald Duck</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-27 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name The Object That Has The Most Germs In Home</td>
+<td class="column-3">Toilet</td>
+<td class="column-4"></td>
+<td class="column-5">Phone</td>
+<td class="column-6"></td>
+<td class="column-7">Door Knob</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-28 even">
+<td class="column-1">4</td>
+<td class="column-2">What Might You Ask To Borrow From Someone At The Laundromat?</td>
+<td class="column-3">Detergent</td>
+<td class="column-4">69</td>
+<td class="column-5">Change</td>
+<td class="column-6">24</td>
+<td class="column-7">Dryer Sheets</td>
+<td class="column-8">6</td>
+</tr>
+<tr class="row-29 odd">
+<td class="column-1">4</td>
+<td class="column-2">Which Festive Holiday Was More Fun When You Were A Kid?</td>
+<td class="column-3">Christmas</td>
+<td class="column-4">51</td>
+<td class="column-5">Halloween</td>
+<td class="column-6">19</td>
+<td class="column-7">Easter</td>
+<td class="column-8">16</td>
+</tr>
+<tr class="row-30 even">
+<td class="column-1">4</td>
+<td class="column-2">What Would You Be Surprised To Hear That A Married Couple Does Separately?</td>
+<td class="column-3">Sleep</td>
+<td class="column-4">59</td>
+<td class="column-5">Vacation</td>
+<td class="column-6">16</td>
+<td class="column-7">Eat Meals</td>
+<td class="column-8">13</td>
+</tr>
+<tr class="row-31 odd">
+<td class="column-1">4</td>
+<td class="column-2">Something You Get Free At A Casino</td>
+<td class="column-3">Food</td>
+<td class="column-4"></td>
+<td class="column-5">Drinks</td>
+<td class="column-6"></td>
+<td class="column-7">Entertainment</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-32 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Reason You Wouldn&#8217;t Want To Live Next Door To A Movie Star</td>
+<td class="column-3">Paparazzi</td>
+<td class="column-4">66</td>
+<td class="column-5">Loud Parties</td>
+<td class="column-6">19</td>
+<td class="column-7">Fans</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-33 odd">
+<td class="column-1">4</td>
+<td class="column-2">On A Resume, What Might A Person Claim They Can Do Quickly?</td>
+<td class="column-3">Type</td>
+<td class="column-4">53</td>
+<td class="column-5">Learn</td>
+<td class="column-6">21</td>
+<td class="column-7">Finish Tasks</td>
+<td class="column-8">12</td>
+</tr>
+<tr class="row-34 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something That Parent Of  A Baby Is Constantly Listening For</td>
+<td class="column-3">Crying</td>
+<td class="column-4">62</td>
+<td class="column-5">Breathing</td>
+<td class="column-6">32</td>
+<td class="column-7">First Words</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-35 odd">
+<td class="column-1">4</td>
+<td class="column-2">Other Than Boxing, Name A Sport In Which You&#8217;re Likely To See Athletes Fighting</td>
+<td class="column-3">Hockey</td>
+<td class="column-4">62</td>
+<td class="column-5">Wrestling</td>
+<td class="column-6">28</td>
+<td class="column-7">Football</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-36 even">
+<td class="column-1">4</td>
+<td class="column-2">Something People Design For A Living</td>
+<td class="column-3">Clothes</td>
+<td class="column-4"></td>
+<td class="column-5">Buildings</td>
+<td class="column-6"></td>
+<td class="column-7">Furniture</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-37 odd">
+<td class="column-1">4</td>
+<td class="column-2">Person Young Boys Have A Crush On</td>
+<td class="column-3">Teacher</td>
+<td class="column-4"></td>
+<td class="column-5">Babysitter</td>
+<td class="column-6"></td>
+<td class="column-7">Girl Next Door</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-38 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Flavor Kid&#8217;s Toothpaste Come In, But Adults Doesn&#8217;t</td>
+<td class="column-3">Bubblegum</td>
+<td class="column-4"></td>
+<td class="column-5">Cherry</td>
+<td class="column-6"></td>
+<td class="column-7">Grape</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-39 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Nice You Get Sick Of Saying During The Holidays</td>
+<td class="column-3">Merry Christmas</td>
+<td class="column-4">51</td>
+<td class="column-5">Thank You</td>
+<td class="column-6">22</td>
+<td class="column-7">Great To See You</td>
+<td class="column-8">16</td>
+</tr>
+<tr class="row-40 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Place Where People Wear Very Little Clothing During The Winter</td>
+<td class="column-3">Vacation</td>
+<td class="column-4">64</td>
+<td class="column-5">Home</td>
+<td class="column-6">13</td>
+<td class="column-7">Gym</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-41 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Phrase That Often Appears In Children&#8217;S Stories</td>
+<td class="column-3">Once Upon A Time</td>
+<td class="column-4">79</td>
+<td class="column-5">The End</td>
+<td class="column-6">10</td>
+<td class="column-7">Happily Ever After</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-42 even">
+<td class="column-1">4</td>
+<td class="column-2">What Do People Say At Halloween That Would Be Inappropriate To Hear At Christmas?</td>
+<td class="column-3">Trick Or Treat</td>
+<td class="column-4">67</td>
+<td class="column-5">Boo</td>
+<td class="column-6">28</td>
+<td class="column-7">Happy Halloween</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-43 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something A Motorcycle Has That A Bicycle Doesn&#8217;t</td>
+<td class="column-3">Motor</td>
+<td class="column-4"></td>
+<td class="column-5">Gas Tank</td>
+<td class="column-6"></td>
+<td class="column-7">Headlight</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-44 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Drink Usually Associated With Christmas</td>
+<td class="column-3">Egg Nog</td>
+<td class="column-4">53</td>
+<td class="column-5">Cider</td>
+<td class="column-6">21</td>
+<td class="column-7">Hot Chocolate</td>
+<td class="column-8">16</td>
+</tr>
+<tr class="row-45 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Tha Can Be Pumped</td>
+<td class="column-3">Gas</td>
+<td class="column-4">58</td>
+<td class="column-5">Tire</td>
+<td class="column-6">24</td>
+<td class="column-7">Iron</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-46 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Some Women Wear Too Much Of</td>
+<td class="column-3">Make Up</td>
+<td class="column-4"></td>
+<td class="column-5">Perfume</td>
+<td class="column-6"></td>
+<td class="column-7">Jewelry</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-47 odd">
+<td class="column-1">4</td>
+<td class="column-2">Other Than Illness, Name An Acceptable Excuse For Missing Work.</td>
+<td class="column-3">Funeral</td>
+<td class="column-4">61</td>
+<td class="column-5">Car Trouble</td>
+<td class="column-6">30</td>
+<td class="column-7">Jury Duty</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-48 even">
+<td class="column-1">4</td>
+<td class="column-2">Who In Your Life Is Most Likely To Brad About You?</td>
+<td class="column-3">Parent</td>
+<td class="column-4">60</td>
+<td class="column-5">Partner</td>
+<td class="column-6">24</td>
+<td class="column-7">Kids</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-49 odd">
+<td class="column-1">4</td>
+<td class="column-2">Tell Me Something You Do  While Trying On Shoes To See If They Fit</td>
+<td class="column-3">Walk</td>
+<td class="column-4"></td>
+<td class="column-5">Wiggle Toes</td>
+<td class="column-6"></td>
+<td class="column-7">Lace Them</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-50 even">
+<td class="column-1">4</td>
+<td class="column-2">We Asked 100 Wives: Name A Place Where You Wouldn&#8217;t Want Your Husband To Go With His Buddies.</td>
+<td class="column-3">Gentleman&#8217;s Club</td>
+<td class="column-4">65</td>
+<td class="column-5">The Bar</td>
+<td class="column-6">31</td>
+<td class="column-7">Las Vegas</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-51 odd">
+<td class="column-1">4</td>
+<td class="column-2">Something On Top Of Most Birthday Cakes</td>
+<td class="column-3">Candles</td>
+<td class="column-4"></td>
+<td class="column-5">Frosting</td>
+<td class="column-6"></td>
+<td class="column-7">Lettering</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-52 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something You Wear At The Beach, But Not At Grocery</td>
+<td class="column-3">Swim Suit</td>
+<td class="column-4"></td>
+<td class="column-5">Towels</td>
+<td class="column-6"></td>
+<td class="column-7">Life Jacket</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-53 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Crime That Some People Probably Commit Every Day.</td>
+<td class="column-3">Speeding</td>
+<td class="column-4">62</td>
+<td class="column-5">Jaywalking</td>
+<td class="column-6">18</td>
+<td class="column-7">Littering</td>
+<td class="column-8">18</td>
+</tr>
+<tr class="row-54 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something That Starts With L, That Everyone Wants</td>
+<td class="column-3">Love</td>
+<td class="column-4"></td>
+<td class="column-5">Luck</td>
+<td class="column-6"></td>
+<td class="column-7">Looks</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-55 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something A Grown Woman Might Lie About, But A Young Girl Wouldn&#8217;t</td>
+<td class="column-3">Age</td>
+<td class="column-4">61</td>
+<td class="column-5">Weight</td>
+<td class="column-6">28</td>
+<td class="column-7">Love Life</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-56 even">
+<td class="column-1">4</td>
+<td class="column-2">Tell Me Something That You Never Intend To Buy At The Store But Always End Up With</td>
+<td class="column-3">Junk Food</td>
+<td class="column-4"></td>
+<td class="column-5">Clothes</td>
+<td class="column-6"></td>
+<td class="column-7">Magazines</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-57 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Decoration You Might Find Inside A Mexican Restaurant</td>
+<td class="column-3">Sombrero</td>
+<td class="column-4">58</td>
+<td class="column-5">Pinata</td>
+<td class="column-6">22</td>
+<td class="column-7">Maracas</td>
+<td class="column-8">6</td>
+</tr>
+<tr class="row-58 even">
+<td class="column-1">4</td>
+<td class="column-2">What Might You See Inside A Bag Of Chips That Would Make You Stop Eating Them?</td>
+<td class="column-3">Hair</td>
+<td class="column-4">63</td>
+<td class="column-5">Bug</td>
+<td class="column-6">15</td>
+<td class="column-7">Mold</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-59 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Tourists Point Up At</td>
+<td class="column-3">Tall Buildings</td>
+<td class="column-4">68</td>
+<td class="column-5">Statues/ Monuments</td>
+<td class="column-6">14</td>
+<td class="column-7">Mountains</td>
+<td class="column-8">6</td>
+</tr>
+<tr class="row-60 even">
+<td class="column-1">4</td>
+<td class="column-2">What Do Some People Do Immediately After Breaking Up, And Others Take Time To Do?</td>
+<td class="column-3">Date Again</td>
+<td class="column-4">55</td>
+<td class="column-5">Mourn</td>
+<td class="column-6">29</td>
+<td class="column-7">Move On</td>
+<td class="column-8">11</td>
+</tr>
+<tr class="row-61 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Considerate That People Often Do For You In An Elevator</td>
+<td class="column-3">Hold Door</td>
+<td class="column-4">51</td>
+<td class="column-5">Push Button</td>
+<td class="column-6">28</td>
+<td class="column-7">Move Over</td>
+<td class="column-8">16</td>
+</tr>
+<tr class="row-62 even">
+<td class="column-1">4</td>
+<td class="column-2">Tell Me Something You Might Scrape Off Bottom Shoes</td>
+<td class="column-3">Gum</td>
+<td class="column-4"></td>
+<td class="column-5">Poop</td>
+<td class="column-6"></td>
+<td class="column-7">Mud</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-63 odd">
+<td class="column-1">4</td>
+<td class="column-2">Other Than Books, What You Check Out At Library</td>
+<td class="column-3">Movies</td>
+<td class="column-4"></td>
+<td class="column-5">Magazines</td>
+<td class="column-6"></td>
+<td class="column-7">Music</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-64 even">
+<td class="column-1">4</td>
+<td class="column-2">If You Live In The Country, Name A Type Of Lights That You Don&#8217;t See At Night.</td>
+<td class="column-3">Street Lights</td>
+<td class="column-4">64</td>
+<td class="column-5">Traffic</td>
+<td class="column-6">21</td>
+<td class="column-7">Neon Light</td>
+<td class="column-8">10</td>
+</tr>
+<tr class="row-65 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something You Might Add Milk To In The Morning.</td>
+<td class="column-3">Cold Cereal</td>
+<td class="column-4">67</td>
+<td class="column-5">Coffee</td>
+<td class="column-6">17</td>
+<td class="column-7">Oatmeal</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-66 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Children Wear, But Adults Don&#8217;t</td>
+<td class="column-3">Diaper</td>
+<td class="column-4">58</td>
+<td class="column-5">Bib</td>
+<td class="column-6">16</td>
+<td class="column-7">Overalls</td>
+<td class="column-8">12</td>
+</tr>
+<tr class="row-67 odd">
+<td class="column-1">4</td>
+<td class="column-2">Something You Fold</td>
+<td class="column-3">T Shirts</td>
+<td class="column-4"></td>
+<td class="column-5">Towels</td>
+<td class="column-6"></td>
+<td class="column-7">Paper Airplane</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-68 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Bad Reason For Picking A College</td>
+<td class="column-3">Party School</td>
+<td class="column-4"></td>
+<td class="column-5">Friends Are Going</td>
+<td class="column-6"></td>
+<td class="column-7">Parents Pressure</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-69 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something That A Demanding Bride May Ask Her Maid-Of_Honor To do That Could End Their Friendship.</td>
+<td class="column-3">Wear An Ugly Dress</td>
+<td class="column-4">46</td>
+<td class="column-5">Lie For Her</td>
+<td class="column-6">32</td>
+<td class="column-7">Pay For Dress</td>
+<td class="column-8">17</td>
+</tr>
+<tr class="row-70 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Profession Where You Might Have A Dog For A Sidekick</td>
+<td class="column-3">Police Officer</td>
+<td class="column-4">52</td>
+<td class="column-5">Firefighter</td>
+<td class="column-6">26</td>
+<td class="column-7">Performer</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-71 odd">
+<td class="column-1">4</td>
+<td class="column-2">We Asked 100 Single People: Who In Your Life Gives You The Most Pressure To Settle Down and Marry?</td>
+<td class="column-3">Mom</td>
+<td class="column-4">55</td>
+<td class="column-5">Friends</td>
+<td class="column-6">24</td>
+<td class="column-7">Person I&#8217;m Dating</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-72 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Form Of Communication That Few People Use Anymore.</td>
+<td class="column-3">Written Letters</td>
+<td class="column-4">55</td>
+<td class="column-5">Telegraph</td>
+<td class="column-6">31</td>
+<td class="column-7">Phone</td>
+<td class="column-8">6</td>
+</tr>
+<tr class="row-73 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Profession That Has To Worry About Getting Sued</td>
+<td class="column-3">Doctor</td>
+<td class="column-4">54</td>
+<td class="column-5">Lawyer</td>
+<td class="column-6">31</td>
+<td class="column-7">Police Officer</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-74 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something You Need To Eat Before It Melts.</td>
+<td class="column-3">Ice Cream</td>
+<td class="column-4">56</td>
+<td class="column-5">Chocolate</td>
+<td class="column-6">24</td>
+<td class="column-7">Popsicle</td>
+<td class="column-8">12</td>
+</tr>
+<tr class="row-75 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A prize You May Win From A Carnival Game.</td>
+<td class="column-3">Stuffed Animal</td>
+<td class="column-4">75</td>
+<td class="column-5">Gold Fish</td>
+<td class="column-6">11</td>
+<td class="column-7">Poster</td>
+<td class="column-8">6</td>
+</tr>
+<tr class="row-76 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Drivers Often Do If They Spot A Police Car Up Ahead</td>
+<td class="column-3">Slow Down</td>
+<td class="column-4">71</td>
+<td class="column-5">Move Over</td>
+<td class="column-6">12</td>
+<td class="column-7">Put Seatbelt On</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-77 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name An Animal That You See More Of In The City.</td>
+<td class="column-3">Cat</td>
+<td class="column-4">63</td>
+<td class="column-5">Pigeon</td>
+<td class="column-6">18</td>
+<td class="column-7">Rat</td>
+<td class="column-8">15</td>
+</tr>
+<tr class="row-78 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Place Where People 50 Years Ago Dressed To Go, But People Today Dress Casually For</td>
+<td class="column-3">Church</td>
+<td class="column-4"></td>
+<td class="column-5">Movie Theater</td>
+<td class="column-6"></td>
+<td class="column-7">Restaurant</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-79 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Kids Might Collect From The Beach</td>
+<td class="column-3">Shells</td>
+<td class="column-4">68</td>
+<td class="column-5">Sand</td>
+<td class="column-6">15</td>
+<td class="column-7">Rocks</td>
+<td class="column-8">15</td>
+</tr>
+<tr class="row-80 even">
+<td class="column-1">4</td>
+<td class="column-2">Name Something It Would Be Rude Not To Do When Being Introduced To A Stranger</td>
+<td class="column-3">Shake Hands</td>
+<td class="column-4">56</td>
+<td class="column-5">Smile</td>
+<td class="column-6">23</td>
+<td class="column-7">Say Hello</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-81 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Skill That&#8217;s More Important For Teens To Learn Today, Than Previously</td>
+<td class="column-3">Computer Skills</td>
+<td class="column-4">63</td>
+<td class="column-5">Driving</td>
+<td class="column-6">30</td>
+<td class="column-7">Second Language</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-82 even">
+<td class="column-1">4</td>
+<td class="column-2">Way To Remove Hair</td>
+<td class="column-3">Wax</td>
+<td class="column-4"></td>
+<td class="column-5">Pull Out</td>
+<td class="column-6"></td>
+<td class="column-7">Shave</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-83 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something People Wear To Avoid A Sunburn</td>
+<td class="column-3">Sunscreen</td>
+<td class="column-4">55</td>
+<td class="column-5">Hat</td>
+<td class="column-6">33</td>
+<td class="column-7">Shirt/Coverup</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-84 even">
+<td class="column-1">4</td>
+<td class="column-2">Hobby That Would Make You Go Broke Quickly</td>
+<td class="column-3">Gambling</td>
+<td class="column-4"></td>
+<td class="column-5">Collect Cars</td>
+<td class="column-6"></td>
+<td class="column-7">Shopping</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-85 odd">
+<td class="column-1">4</td>
+<td class="column-2">What Would A College Kid Do Right Before Parents Visit?</td>
+<td class="column-3">Clean</td>
+<td class="column-4"></td>
+<td class="column-5">Homework</td>
+<td class="column-6"></td>
+<td class="column-7">Shower</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-86 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Specific Person You&#8217;d Ask To Help You Move If You Were In A Jam.</td>
+<td class="column-3">Friend</td>
+<td class="column-4">42</td>
+<td class="column-5">Parent</td>
+<td class="column-6">38</td>
+<td class="column-7">Sibling</td>
+<td class="column-8">18</td>
+</tr>
+<tr class="row-87 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something Parents Of Twins Do That Makes Their Children Seem Even More Similar.</td>
+<td class="column-3">Dress Alike</td>
+<td class="column-4">67</td>
+<td class="column-5">Hair Style</td>
+<td class="column-6">21</td>
+<td class="column-7">Similar Names</td>
+<td class="column-8">11</td>
+</tr>
+<tr class="row-88 even">
+<td class="column-1">4</td>
+<td class="column-2">Something Specific People Do In Front Of Mirror</td>
+<td class="column-3">Singing</td>
+<td class="column-4"></td>
+<td class="column-5">Speech</td>
+<td class="column-6"></td>
+<td class="column-7">Smiling</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-89 odd">
+<td class="column-1">4</td>
+<td class="column-2">Animal You Would Refuse To Pet Sit For</td>
+<td class="column-3">Lion</td>
+<td class="column-4"></td>
+<td class="column-5">Tiger</td>
+<td class="column-6"></td>
+<td class="column-7">Snake</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-90 even">
+<td class="column-1">4</td>
+<td class="column-2">Other Than To Buy Books, Why Might Someone Go To A Bookstore?</td>
+<td class="column-3">Read</td>
+<td class="column-4">58</td>
+<td class="column-5">Coffee</td>
+<td class="column-6">31</td>
+<td class="column-7">Socialize</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-91 odd">
+<td class="column-1">4</td>
+<td class="column-2">What Do You Find Out About A Town By Reading Signs On The Side Of The Road?</td>
+<td class="column-3">Population</td>
+<td class="column-4">60</td>
+<td class="column-5">Town Name</td>
+<td class="column-6">30</td>
+<td class="column-7">Speed Limit</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-92 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Profession That&#8217;s Only Successful If People Are Laughing At Them.</td>
+<td class="column-3">Comedian</td>
+<td class="column-4">63</td>
+<td class="column-5">Clown</td>
+<td class="column-6">31</td>
+<td class="column-7">Sports Mascot</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-93 odd">
+<td class="column-1">4</td>
+<td class="column-2">Tell Me A Reason People Give For Wearing Black.</td>
+<td class="column-3">Funeral</td>
+<td class="column-4">59</td>
+<td class="column-5">Slimming</td>
+<td class="column-6">27</td>
+<td class="column-7">Style</td>
+<td class="column-8">12</td>
+</tr>
+<tr class="row-94 even">
+<td class="column-1">4</td>
+<td class="column-2">If An Alien Gave You A Guided Tour Of Outer Space, What Would Be Must-See Stops?</td>
+<td class="column-3">Other Planets</td>
+<td class="column-4">50</td>
+<td class="column-5">Moon</td>
+<td class="column-6">22</td>
+<td class="column-7">Sun</td>
+<td class="column-8">16</td>
+</tr>
+<tr class="row-95 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something A Groom Hate To Lose Before Wedding</td>
+<td class="column-3">Ring</td>
+<td class="column-4"></td>
+<td class="column-5">Bride</td>
+<td class="column-6"></td>
+<td class="column-7">Tux</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-96 even">
+<td class="column-1">4</td>
+<td class="column-2">Another Word For Long Underwear</td>
+<td class="column-3">Long Johns</td>
+<td class="column-4"></td>
+<td class="column-5">Thermals</td>
+<td class="column-6"></td>
+<td class="column-7">Union Suit</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-97 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name Something You&#8217;re Advised To Wear In Order To Look Slim</td>
+<td class="column-3">Black</td>
+<td class="column-4"></td>
+<td class="column-5">Girdle</td>
+<td class="column-6"></td>
+<td class="column-7">Vertical Stripes</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-98 even">
+<td class="column-1">4</td>
+<td class="column-2">What Might A Parent Videotape Their Child Doing Around The Christmas Holiday?</td>
+<td class="column-3">Opening Presents</td>
+<td class="column-4">65</td>
+<td class="column-5">Being In Pageant</td>
+<td class="column-6">27</td>
+<td class="column-7">Visiting Santa</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-99 odd">
+<td class="column-1">4</td>
+<td class="column-2">Sign That Girlfriend Is Turning Into A Cat</td>
+<td class="column-3">Purring</td>
+<td class="column-4"></td>
+<td class="column-5">Meows</td>
+<td class="column-6"></td>
+<td class="column-7">Whiskers</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-100 even">
+<td class="column-1">4</td>
+<td class="column-2">What Is A Color That You Would See On A Country&#8217;s Flag?</td>
+<td class="column-3">Red</td>
+<td class="column-4">70</td>
+<td class="column-5">Blue</td>
+<td class="column-6">19</td>
+<td class="column-7">White</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-101 odd">
+<td class="column-1">4</td>
+<td class="column-2">Name A Song That Has &#8220;Christmas&#8221; In The Title</td>
+<td class="column-3">White Christmas</td>
+<td class="column-4">55</td>
+<td class="column-5">Oh Christmas Tree</td>
+<td class="column-6">21</td>
+<td class="column-7">Wish You Merry Xmas</td>
+<td class="column-8">18</td>
+</tr>
+<tr class="row-102 even">
+<td class="column-1">4</td>
+<td class="column-2">Name A Complaint Next-Door Neighbor Might Approach With</td>
+<td class="column-3">Noise</td>
+<td class="column-4"></td>
+<td class="column-5">Dog</td>
+<td class="column-6"></td>
+<td class="column-7">Yard</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-103 odd">
+<td class="column-1">4</td>
+<td class="column-2">What 3 Words Cause Argumentative Person Stop Fighting</td>
+<td class="column-3">I Love You</td>
+<td class="column-4"></td>
+<td class="column-5">I Am Sorry</td>
+<td class="column-6"></td>
+<td class="column-7">You Are Right</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-104 even">
+<td class="column-1">3</td>
+<td class="column-2">Name Something Santa Does That You wouldn&#8217;t want Your House guest To Do.</td>
+<td class="column-3">Come Down Chimney</td>
+<td class="column-4">59</td>
+<td class="column-5">Eat Your Coookies</td>
+<td class="column-6">24</td>
+<td class="column-7">Arrive Late at Night</td>
+<td class="column-8">13</td>
+</tr>
+<tr class="row-105 odd">
+<td class="column-1"></td>
+<td class="column-2">Other Than Displays Of Affection, Name Something You Wish Couples Wouldn&#8217;t Do In Public.</td>
+<td class="column-3">Fight</td>
+<td class="column-4">68</td>
+<td class="column-5">Feed Each Other</td>
+<td class="column-6">13</td>
+<td class="column-7">Baby Talk</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-106 even">
+<td class="column-1"></td>
+<td class="column-2">Name A Reason You Might Dread Going To A New Year&#8217;s Party At A Club.</td>
+<td class="column-3">Crowded</td>
+<td class="column-4">53</td>
+<td class="column-5">No Date</td>
+<td class="column-6">21</td>
+<td class="column-7">Don&#8217;t Drink</td>
+<td class="column-8">18</td>
+</tr>
+<tr class="row-107 odd">
+<td class="column-1"></td>
+<td class="column-2">Which Color Would You Be Surprised To See A Bride Wearing On Her Wedding Day?</td>
+<td class="column-3">Black</td>
+<td class="column-4">74</td>
+<td class="column-5">Red</td>
+<td class="column-6">21</td>
+<td class="column-7">Green</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-108 even">
+<td class="column-1"></td>
+<td class="column-2">Name Something You&#8217;D Hate To Find Floating In Your Coffee</td>
+<td class="column-3">Bug</td>
+<td class="column-4">54</td>
+<td class="column-5">Hair</td>
+<td class="column-6">29</td>
+<td class="column-7">Food Crumb</td>
+<td class="column-8">8</td>
+</tr>
+<tr class="row-109 odd">
+<td class="column-1"></td>
+<td class="column-2"> Name Something Santa Does, That You Wouldn&#8217;t Want Your House Guests To Do.</td>
+<td class="column-3">Come Down Chimney</td>
+<td class="column-4">59</td>
+<td class="column-5">Eat Your Cookies</td>
+<td class="column-6">24</td>
+<td class="column-7">Arrive Late At Nite</td>
+<td class="column-8">13</td>
+</tr>
+<tr class="row-110 even">
+<td class="column-1"></td>
+<td class="column-2">Name A Specific Night Of The Year That You Hope To Be Kissed.</td>
+<td class="column-3">New Year Eve&#8217;s</td>
+<td class="column-4">48</td>
+<td class="column-5">Valentine&#8217;s</td>
+<td class="column-6">25</td>
+<td class="column-7">Christmas</td>
+<td class="column-8">13</td>
+</tr>
+<tr class="row-111 odd">
+<td class="column-1"></td>
+<td class="column-2">Name Something That You Can Get For Free At A Casino.</td>
+<td class="column-3">Drinks</td>
+<td class="column-4">49</td>
+<td class="column-5">Food</td>
+<td class="column-6">33</td>
+<td class="column-7">Entertainment</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-112 even">
+<td class="column-1">3</td>
+<td class="column-2">Name A Person Who You&#8217;d Never Trust to Set You Up On A Blind Date</td>
+<td class="column-3">Mother</td>
+<td class="column-4">66</td>
+<td class="column-5">Sibling</td>
+<td class="column-6">20</td>
+<td class="column-7">Ex</td>
+<td class="column-8">9</td>
+</tr>
+<tr class="row-113 odd">
+<td class="column-1">2</td>
+<td class="column-2">Name Something A Couple Shouldn&#8217;t Do Until They Have Known Each Other For A Long Time.
+</td>
+<td class="column-3">Become Intimate</td>
+<td class="column-4"></td>
+<td class="column-5">Get Married</td>
+<td class="column-6"></td>
+<td class="column-7">Live Together</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-114 even">
+<td class="column-1">2</td>
+<td class="column-2">If You See Pink Frosting On  A Cake, What Flavor Would You Expect It To Be</td>
+<td class="column-3">Strawberry</td>
+<td class="column-4">73</td>
+<td class="column-5">Cherry</td>
+<td class="column-6">16</td>
+<td class="column-7">Raspberry</td>
+<td class="column-8">10</td>
+</tr>
+<tr class="row-115 odd">
+<td class="column-1"></td>
+<td class="column-2">Before Visiting A New City, Name Something For Which You Might Get A Recommendation.</td>
+<td class="column-3">Places To Stay</td>
+<td class="column-4">56</td>
+<td class="column-5">Restaurant</td>
+<td class="column-6">24</td>
+<td class="column-7">Attraction</td>
+<td class="column-8">7</td>
+</tr>
+<tr class="row-116 even">
+<td class="column-1"></td>
+<td class="column-2">Name A Reason Why It&#8217;s Hard To Slow Dance With A Ghost.</td>
+<td class="column-3">Can&#8217;t See Them</td>
+<td class="column-4">66</td>
+<td class="column-5">Nothing To Hold</td>
+<td class="column-6">17</td>
+<td class="column-7">Can&#8217;t Lead</td>
+<td class="column-8">16</td>
+</tr>
+<tr class="row-117 odd">
+<td class="column-1"></td>
+<td class="column-2">Name A Decoration You Might Find Inside A Mexican Restaurant.</td>
+<td class="column-3">Sombrero</td>
+<td class="column-4">58</td>
+<td class="column-5">Pinata</td>
+<td class="column-6">22</td>
+<td class="column-7">Maracas</td>
+<td class="column-8">6</td>
+</tr>
+<tr class="row-118 even">
+<td class="column-1"></td>
+<td class="column-2">Name Something A Dad Would Look Silly Borrowing From His Child At The Bowling Alley.</td>
+<td class="column-3">Shoes</td>
+<td class="column-4">64</td>
+<td class="column-5">Lightweight Ball</td>
+<td class="column-6">19</td>
+<td class="column-7">Money</td>
+<td class="column-8">15</td>
+</tr>
+<tr class="row-119 odd">
+<td class="column-1"></td>
+<td class="column-2">Name A Famous Robert Who Many Women Consider Handsome.</td>
+<td class="column-3">Robert Redford</td>
+<td class="column-4">51</td>
+<td class="column-5">Robert De Niro</td>
+<td class="column-6">34</td>
+<td class="column-7">Robert Kennedy</td>
+<td class="column-8">4</td>
+</tr>
+<tr class="row-120 even">
+<td class="column-1"></td>
+<td class="column-2">Name An Article Of Clothing That Most People Have 10 Of.</td>
+<td class="column-3">Pairs Of Shoes</td>
+<td class="column-4">57</td>
+<td class="column-5">Pairs Of Socks</td>
+<td class="column-6">21</td>
+<td class="column-7">Shirts</td>
+<td class="column-8">17</td>
+</tr>
+<tr class="row-121 odd">
+<td class="column-1"></td>
+<td class="column-2">Name Something A Man Might Do At The Gym To Impress A Woman.</td>
+<td class="column-3">Lift Weights</td>
+<td class="column-4">55</td>
+<td class="column-5">Flex</td>
+<td class="column-6">24</td>
+<td class="column-7">Take Off Shirt</td>
+<td class="column-8">10</td>
+</tr>
+<tr class="row-122 even">
+<td class="column-1">3</td>
+<td class="column-2">Tell Me A Celebration You Wish Would Last All Year</td>
+<td class="column-3">Christams</td>
+<td class="column-4"></td>
+<td class="column-5">Birthday</td>
+<td class="column-6"></td>
+<td class="column-7">New Years</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-123 odd">
+<td class="column-1">3</td>
+<td class="column-2">Name Something People Wait In Line For On Hot Days</td>
+<td class="column-3">Ice Cream</td>
+<td class="column-4">66</td>
+<td class="column-5">Cold Drinks</td>
+<td class="column-6">23</td>
+<td class="column-7">Water Park</td>
+<td class="column-8">10</td>
+</tr>
+<tr class="row-124 even">
+<td class="column-1">1</td>
+<td class="column-2">Name Something A Contestant In A Beauty Pageant Might Wear</td>
+<td class="column-3">Bathing Suit</td>
+<td class="column-4">56</td>
+<td class="column-5">Gown</td>
+<td class="column-6">39</td>
+<td class="column-7">Makeup</td>
+<td class="column-8">2</td>
+</tr>
+<tr class="row-125 odd">
+<td class="column-1">1</td>
+<td class="column-2">Name A Kind Of Cookie People Love To Dunk In Milk</td>
+<td class="column-3">Chocolate Chip</td>
+<td class="column-4">54</td>
+<td class="column-5">Oreo</td>
+<td class="column-6">42</td>
+<td class="column-7">Oatmeal</td>
+<td class="column-8">5</td>
+</tr>
+<tr class="row-126 even">
+<td class="column-1">3</td>
+<td class="column-2">Name A Night Of The Week When People Stay Up Later Than Usual</td>
+<td class="column-3">Friday</td>
+<td class="column-4">52</td>
+<td class="column-5">Saturday</td>
+<td class="column-6">43</td>
+<td class="column-7">Sunday</td>
+<td class="column-8">3</td>
+</tr>
+<tr class="row-127 odd">
+<td class="column-1"></td>
+<td class="column-2">Name Something That Would Soothe An Upset Stomach</td>
+<td class="column-3">Pepto Bismol</td>
+<td class="column-4"></td>
+<td class="column-5">Milk</td>
+<td class="column-6"></td>
+<td class="column-7">Tums</td>
+<td class="column-8"></td>
+</tr>
+<tr class="row-128 even">
+<td class="column-1"></td>
+<td class="column-2">If There Was An Award For “Loudest In The Zoo,” Which Animal Would Win It?</td>
+<td class="column-3">Lion</td>
+<td class="column-4">41</td>
+<td class="column-5">Elephant</td>
+<td class="column-6">34</td>
+<td class="column-7">Monkey</td>
+<td class="column-8">19</td>
+</tr>
+</tbody>
